@@ -1,6 +1,8 @@
 # Burp Suite Kotlin Extension Template
 
-A simple template for creating a Burp Suite extension using the Montoya API in Kotlin. When building another project I realised that most extension templates were Java based, including the official one. Same for the guides and tutorials. I decided to build this template from one of my other projects and share it separately in the chance that someone may find it useful.
+A basic template for getting quickly started with Burp Suite extension development for the Montoya API using Kotlin and Maven.
+
+When building another project I realised that most extension templates were Java based and used Gradle, including the official one. Same for the guides and tutorials. I decided to build this template from one of my other projects and share it separately in the chance that someone may find it useful.
 
 ## Getting started
 
